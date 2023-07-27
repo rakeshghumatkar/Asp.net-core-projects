@@ -1,0 +1,44 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AbbyWeb
+build_property.RootNamespace = AbbyWeb
+build_property.ProjectDir = D:\net core MVC\AbbyWeb\AbbyWeb\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\net core MVC\AbbyWeb\AbbyWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/net core MVC/AbbyWeb/AbbyWeb/Pages/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/net core MVC/AbbyWeb/AbbyWeb/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/net core MVC/AbbyWeb/AbbyWeb/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/net core MVC/AbbyWeb/AbbyWeb/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/net core MVC/AbbyWeb/AbbyWeb/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/net core MVC/AbbyWeb/AbbyWeb/Shared/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/net core MVC/AbbyWeb/AbbyWeb/Shared/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
