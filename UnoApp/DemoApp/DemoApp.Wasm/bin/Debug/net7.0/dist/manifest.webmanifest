@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "DemoApp",
+  "display": "standalone",
+  "name": "DemoApp",
+  "short_name": "DemoApp",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

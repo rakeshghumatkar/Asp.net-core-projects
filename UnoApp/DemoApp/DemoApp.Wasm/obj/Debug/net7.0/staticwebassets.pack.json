@@ -1,0 +1,1777 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\AppManifest.js",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\AppManifest.js"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp.Wasm.exe",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp.Wasm.exe"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp.Wasm.staticwebassets.runtime.json",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp.Wasm.staticwebassets.runtime.json"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp.uprimarker",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp.uprimarker"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\Icons\\back.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\Icons\\back.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\Icons\\back.scale-100.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\Icons\\back.scale-100.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\Icons\\back.scale-125.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\Icons\\back.scale-125.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\Icons\\back.scale-150.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\Icons\\back.scale-150.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\Icons\\back.scale-200.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\Icons\\back.scale-200.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\Icons\\back.scale-300.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\Icons\\back.scale-300.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\Icons\\back.scale-400.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\Icons\\back.scale-400.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\Icons\\back.svg",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\Icons\\back.svg"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\SharedAssets.md",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\DemoApp\\Assets\\SharedAssets.md"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\Fonts.css",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\Fonts.css"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\Uno.Fonts.Fluent\\Fonts\\uno-fluentui-assets.ttf",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\Uno.Fonts.Fluent\\Fonts\\uno-fluentui-assets.ttf"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\Uno.Fonts.Roboto\\Fonts\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\Uno.Fonts.Roboto\\Fonts\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\Uno.Fonts.Roboto\\Fonts\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\Uno.Fonts.Roboto\\Fonts\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\Uno.Fonts.Roboto\\Fonts\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\Uno.Fonts.Roboto\\Fonts\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\Uno.UI.css",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\Uno.UI.css"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\Uno.UI.js",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\Uno.UI.js"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\Unomanifest.webmanifest",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\Unomanifest.webmanifest"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\WasmWebSockets.js",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\WasmWebSockets.js"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\corebindings.c",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\corebindings.c"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\dotnet-legacy.d.ts",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\dotnet-legacy.d.ts"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\dotnet.d.ts",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\dotnet.d.ts"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\dotnet.js",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\dotnet.js"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\dotnet.js.symbols",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\dotnet.js.symbols"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\dotnet.timezones.blat",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\dotnet.timezones.blat"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\dotnet.wasm",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\dotnet.wasm"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\driver.c",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\driver.c"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\emcc-compile.rsp",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\emcc-compile.rsp"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\emcc-default.rsp",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\emcc-default.rsp"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\emcc-link.rsp",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\emcc-link.rsp"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\emcc-props.json",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\emcc-props.json"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\gc-common.h",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\gc-common.h"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\iconapp-128.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\iconapp-128.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\iconapp-16.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\iconapp-16.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\iconapp-32.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\iconapp-32.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\iconapp-512.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\iconapp-512.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\icudt.dat",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\icudt.dat"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\icudt_CJK.dat",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\icudt_CJK.dat"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\icudt_EFIGS.dat",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\icudt_EFIGS.dat"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\icudt_no_CJK.dat",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\icudt_no_CJK.dat"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\lottie.js",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\lottie.js"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\CommonServiceLocator.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\CommonServiceLocator.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\DemoApp.DataContracts.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\DemoApp.DataContracts.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\DemoApp.DataContracts.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\DemoApp.DataContracts.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\DemoApp.Wasm.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\DemoApp.Wasm.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\DemoApp.Wasm.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\DemoApp.Wasm.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\DemoApp.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\DemoApp.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\DemoApp.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\DemoApp.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Bcl.AsyncInterfaces.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Bcl.AsyncInterfaces.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Configuration.Abstractions.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Configuration.Abstractions.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Configuration.Binder.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Configuration.Binder.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Configuration.CommandLine.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Configuration.CommandLine.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Configuration.EnvironmentVariables.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Configuration.EnvironmentVariables.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Configuration.FileExtensions.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Configuration.FileExtensions.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Configuration.Json.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Configuration.Json.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Configuration.UserSecrets.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Configuration.UserSecrets.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Configuration.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Configuration.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.DependencyInjection.Abstractions.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.DependencyInjection.Abstractions.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.DependencyInjection.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.DependencyInjection.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.DependencyModel.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.DependencyModel.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.FileProviders.Abstractions.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.FileProviders.Abstractions.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.FileProviders.Physical.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.FileProviders.Physical.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.FileSystemGlobbing.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.FileSystemGlobbing.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Hosting.Abstractions.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Hosting.Abstractions.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Hosting.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Hosting.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Http.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Http.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Localization.Abstractions.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Localization.Abstractions.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Logging.Abstractions.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Logging.Abstractions.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Logging.Configuration.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Logging.Configuration.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Logging.Console.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Logging.Console.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Logging.Debug.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Logging.Debug.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Logging.EventLog.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Logging.EventLog.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Logging.EventSource.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Logging.EventSource.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Logging.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Logging.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Options.ConfigurationExtensions.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Options.ConfigurationExtensions.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Options.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Options.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Primitives.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Extensions.Primitives.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.IO.RecyclableMemoryStream.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.IO.RecyclableMemoryStream.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Win32.Primitives.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Win32.Primitives.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Win32.Primitives.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Microsoft.Win32.Primitives.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Newtonsoft.Json.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Newtonsoft.Json.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Refit.HttpClientFactory.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Refit.HttpClientFactory.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Refit.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Refit.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Serilog.Extensions.Logging.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Serilog.Extensions.Logging.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Serilog.Settings.Configuration.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Serilog.Settings.Configuration.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Serilog.Sinks.Console.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Serilog.Sinks.Console.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Serilog.Sinks.Debug.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Serilog.Sinks.Debug.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Serilog.Sinks.File.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Serilog.Sinks.File.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Serilog.Sinks.File.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Serilog.Sinks.File.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Serilog.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Serilog.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Buffers.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Buffers.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Buffers.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Buffers.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.Concurrent.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.Concurrent.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.Concurrent.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.Concurrent.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.Immutable.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.Immutable.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.Immutable.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.Immutable.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.NonGeneric.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.NonGeneric.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.NonGeneric.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.NonGeneric.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.Specialized.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.Specialized.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.Specialized.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.Specialized.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Collections.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ComponentModel.EventBasedAsync.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ComponentModel.EventBasedAsync.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ComponentModel.EventBasedAsync.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ComponentModel.EventBasedAsync.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ComponentModel.Primitives.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ComponentModel.Primitives.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ComponentModel.Primitives.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ComponentModel.Primitives.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ComponentModel.TypeConverter.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ComponentModel.TypeConverter.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ComponentModel.TypeConverter.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ComponentModel.TypeConverter.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ComponentModel.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ComponentModel.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ComponentModel.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ComponentModel.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Console.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Console.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Console.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Console.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Data.Common.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Data.Common.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Data.Common.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Data.Common.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Contracts.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Contracts.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Contracts.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Contracts.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Debug.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Debug.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Debug.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Debug.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.DiagnosticSource.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.DiagnosticSource.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.DiagnosticSource.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.DiagnosticSource.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.EventLog.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.EventLog.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.FileVersionInfo.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.FileVersionInfo.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.FileVersionInfo.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.FileVersionInfo.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Process.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Process.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Process.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Process.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.StackTrace.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.StackTrace.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.StackTrace.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.StackTrace.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.TextWriterTraceListener.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.TextWriterTraceListener.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.TextWriterTraceListener.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.TextWriterTraceListener.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Tools.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Tools.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Tools.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Tools.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.TraceSource.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.TraceSource.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.TraceSource.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.TraceSource.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Tracing.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Tracing.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Tracing.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Diagnostics.Tracing.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Drawing.Primitives.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Drawing.Primitives.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Drawing.Primitives.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Drawing.Primitives.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Formats.Asn1.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Formats.Asn1.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Formats.Asn1.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Formats.Asn1.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.Compression.Brotli.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.Compression.Brotli.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.Compression.Brotli.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.Compression.Brotli.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.Compression.ZipFile.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.Compression.ZipFile.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.Compression.ZipFile.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.Compression.ZipFile.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.Compression.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.Compression.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.Compression.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.Compression.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.FileSystem.DriveInfo.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.FileSystem.DriveInfo.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.FileSystem.DriveInfo.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.FileSystem.DriveInfo.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.FileSystem.Watcher.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.FileSystem.Watcher.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.FileSystem.Watcher.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.FileSystem.Watcher.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.FileSystem.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.FileSystem.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.FileSystem.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.FileSystem.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.IsolatedStorage.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.IsolatedStorage.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.IsolatedStorage.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.IsolatedStorage.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.MemoryMappedFiles.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.MemoryMappedFiles.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.MemoryMappedFiles.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.MemoryMappedFiles.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.Pipes.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.Pipes.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.Pipes.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.IO.Pipes.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.Async.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.Async.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.Expressions.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.Expressions.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.Expressions.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.Expressions.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.Parallel.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.Parallel.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.Parallel.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.Parallel.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.Queryable.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.Queryable.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.Queryable.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.Queryable.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Linq.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Memory.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Memory.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Memory.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Memory.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Http.Json.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Http.Json.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Http.Json.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Http.Json.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Http.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Http.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Http.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Http.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.HttpListener.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.HttpListener.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.HttpListener.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.HttpListener.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Mail.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Mail.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Mail.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Mail.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.NameResolution.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.NameResolution.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.NameResolution.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.NameResolution.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.NetworkInformation.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.NetworkInformation.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.NetworkInformation.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.NetworkInformation.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Ping.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Ping.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Ping.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Ping.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Primitives.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Primitives.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Primitives.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Primitives.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Requests.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Requests.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Requests.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Requests.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Security.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Security.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Security.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Security.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.ServicePoint.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.ServicePoint.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.ServicePoint.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.ServicePoint.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Sockets.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Sockets.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Sockets.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.Sockets.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebClient.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebClient.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebClient.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebClient.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebHeaderCollection.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebHeaderCollection.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebHeaderCollection.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebHeaderCollection.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebProxy.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebProxy.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebProxy.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebProxy.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebSockets.Client.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebSockets.Client.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebSockets.Client.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebSockets.Client.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebSockets.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebSockets.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebSockets.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Net.WebSockets.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Numerics.Vectors.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Numerics.Vectors.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Numerics.Vectors.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Numerics.Vectors.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ObjectModel.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ObjectModel.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ObjectModel.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.ObjectModel.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.CoreLib.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.CoreLib.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.CoreLib.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.CoreLib.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.DataContractSerialization.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.DataContractSerialization.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.DataContractSerialization.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.DataContractSerialization.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.Uri.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.Uri.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.Uri.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.Uri.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.Xml.Linq.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.Xml.Linq.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.Xml.Linq.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.Xml.Linq.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.Xml.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.Xml.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.Xml.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Private.Xml.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.DispatchProxy.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.DispatchProxy.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.DispatchProxy.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.DispatchProxy.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Emit.ILGeneration.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Emit.ILGeneration.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Emit.ILGeneration.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Emit.ILGeneration.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Emit.Lightweight.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Emit.Lightweight.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Emit.Lightweight.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Emit.Lightweight.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Emit.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Emit.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Emit.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Emit.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Metadata.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Metadata.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Metadata.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Metadata.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Primitives.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Primitives.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Primitives.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Reflection.Primitives.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Resources.ResourceManager.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Resources.ResourceManager.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Resources.ResourceManager.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Resources.ResourceManager.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Resources.Writer.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Resources.Writer.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Resources.Writer.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Resources.Writer.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.CompilerServices.Unsafe.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.CompilerServices.Unsafe.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.CompilerServices.Unsafe.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.CompilerServices.Unsafe.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.CompilerServices.VisualC.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.CompilerServices.VisualC.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.CompilerServices.VisualC.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.CompilerServices.VisualC.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Extensions.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Extensions.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Extensions.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Extensions.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.InteropServices.JavaScript.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.InteropServices.JavaScript.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.InteropServices.JavaScript.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.InteropServices.JavaScript.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.InteropServices.RuntimeInformation.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.InteropServices.RuntimeInformation.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.InteropServices.RuntimeInformation.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.InteropServices.RuntimeInformation.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.InteropServices.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.InteropServices.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.InteropServices.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.InteropServices.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Intrinsics.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Intrinsics.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Intrinsics.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Intrinsics.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Loader.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Loader.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Loader.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Loader.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Numerics.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Numerics.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Numerics.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Numerics.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Serialization.Formatters.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Serialization.Formatters.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Serialization.Formatters.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Serialization.Formatters.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Serialization.Json.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Serialization.Json.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Serialization.Json.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Serialization.Json.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Serialization.Primitives.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Serialization.Primitives.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Serialization.Primitives.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Serialization.Primitives.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Serialization.Xml.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Serialization.Xml.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Serialization.Xml.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.Serialization.Xml.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Runtime.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Claims.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Claims.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Claims.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Claims.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Cryptography.Algorithms.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Cryptography.Algorithms.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Cryptography.Algorithms.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Cryptography.Algorithms.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Cryptography.Primitives.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Cryptography.Primitives.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Cryptography.Primitives.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Cryptography.Primitives.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Cryptography.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Cryptography.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Cryptography.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Cryptography.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Principal.Windows.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Principal.Windows.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Principal.Windows.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Security.Principal.Windows.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Text.Encoding.Extensions.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Text.Encoding.Extensions.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Text.Encoding.Extensions.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Text.Encoding.Extensions.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Text.Encodings.Web.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Text.Encodings.Web.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Text.Encodings.Web.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Text.Encodings.Web.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Text.Json.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Text.Json.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Text.Json.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Text.Json.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Text.RegularExpressions.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Text.RegularExpressions.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Text.RegularExpressions.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Text.RegularExpressions.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Overlapped.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Overlapped.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Overlapped.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Overlapped.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Tasks.Extensions.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Tasks.Extensions.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Tasks.Extensions.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Tasks.Extensions.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Tasks.Parallel.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Tasks.Parallel.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Tasks.Parallel.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Tasks.Parallel.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Tasks.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Tasks.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Tasks.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Tasks.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Thread.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Thread.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Thread.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.Thread.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.ThreadPool.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.ThreadPool.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.ThreadPool.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.ThreadPool.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Threading.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Transactions.Local.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Transactions.Local.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Transactions.Local.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Transactions.Local.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Web.HttpUtility.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Web.HttpUtility.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Web.HttpUtility.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Web.HttpUtility.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.ReaderWriter.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.ReaderWriter.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.ReaderWriter.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.ReaderWriter.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.XDocument.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.XDocument.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.XDocument.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.XDocument.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.XPath.XDocument.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.XPath.XDocument.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.XPath.XDocument.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.XPath.XDocument.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.XPath.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.XPath.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.XPath.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.XPath.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.XmlSerializer.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.XmlSerializer.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.XmlSerializer.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\System.Xml.XmlSerializer.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Collections.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Collections.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Collections.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Collections.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Disposables.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Disposables.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Disposables.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Disposables.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Equality.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Equality.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Equality.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Equality.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Logging.Singleton.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Logging.Singleton.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Logging.Singleton.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Logging.Singleton.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Logging.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Logging.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Logging.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.Logging.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Core.Extensions.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Diagnostics.Eventing.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Diagnostics.Eventing.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Diagnostics.Eventing.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Diagnostics.Eventing.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Configuration.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Configuration.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Configuration.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Configuration.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Core.UI.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Core.UI.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Core.UI.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Core.UI.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Core.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Core.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Core.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Core.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Hosting.WinUI.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Hosting.WinUI.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Hosting.WinUI.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Hosting.WinUI.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Hosting.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Hosting.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Hosting.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Hosting.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Http.Refit.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Http.Refit.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Http.Refit.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Http.Refit.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Http.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Http.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Http.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Http.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Localization.WinUI.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Localization.WinUI.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Localization.WinUI.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Localization.WinUI.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Localization.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Localization.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Localization.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Localization.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Logging.Serilog.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Logging.Serilog.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Logging.Serilog.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Logging.Serilog.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Logging.WebAssembly.Console.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Logging.WebAssembly.Console.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Logging.WinUI.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Logging.WinUI.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Logging.WinUI.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Logging.WinUI.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Navigation.Toolkit.UI.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Navigation.Toolkit.UI.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Navigation.Toolkit.UI.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Navigation.Toolkit.UI.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Navigation.UI.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Navigation.UI.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Navigation.UI.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Navigation.UI.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Navigation.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Navigation.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Navigation.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Navigation.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Reactive.UI.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Reactive.UI.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Reactive.UI.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Reactive.UI.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Reactive.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Reactive.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Reactive.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Reactive.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Serialization.Refit.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Serialization.Refit.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Serialization.Refit.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Serialization.Refit.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Serialization.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Serialization.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Serialization.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Serialization.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Storage.UI.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Storage.UI.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Storage.UI.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Storage.UI.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Storage.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Storage.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Storage.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Storage.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Toolkit.UI.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Toolkit.UI.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Toolkit.UI.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Toolkit.UI.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Toolkit.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Toolkit.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Toolkit.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Extensions.Toolkit.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Foundation.Logging.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Foundation.Logging.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Foundation.Logging.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Foundation.Logging.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Foundation.Runtime.WebAssembly.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Foundation.Runtime.WebAssembly.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Foundation.Runtime.WebAssembly.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Foundation.Runtime.WebAssembly.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Foundation.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Foundation.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Foundation.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Foundation.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Material.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Material.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Material.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Material.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Toolkit.WinUI.Material.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Toolkit.WinUI.Material.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Toolkit.WinUI.Material.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Toolkit.WinUI.Material.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Toolkit.WinUI.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Toolkit.WinUI.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Toolkit.WinUI.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Toolkit.WinUI.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Toolkit.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Toolkit.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Toolkit.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Toolkit.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Adapter.Microsoft.Extensions.Logging.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Adapter.Microsoft.Extensions.Logging.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Adapter.Microsoft.Extensions.Logging.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Adapter.Microsoft.Extensions.Logging.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Composition.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Composition.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Composition.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Composition.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Dispatching.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Dispatching.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Dispatching.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Dispatching.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.FluentTheme.v2.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.FluentTheme.v2.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.FluentTheme.v2.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.FluentTheme.v2.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Lottie.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Lottie.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Lottie.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Lottie.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.RemoteControl.Messaging.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.RemoteControl.Messaging.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.RemoteControl.Messaging.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.RemoteControl.Messaging.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.RemoteControl.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.RemoteControl.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.RemoteControl.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.RemoteControl.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Runtime.WebAssembly.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Runtime.WebAssembly.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Runtime.WebAssembly.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Runtime.WebAssembly.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Toolkit.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Toolkit.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Toolkit.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.Toolkit.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.UI.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Wasm.MetadataUpdater.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Wasm.MetadataUpdater.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Wasm.MetadataUpdater.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Wasm.MetadataUpdater.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Wasm.TimezoneData.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Wasm.TimezoneData.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Wasm.TimezoneData.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Wasm.TimezoneData.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Xaml.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Xaml.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Xaml.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.Xaml.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\Uno.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\netstandard.clr",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\netstandard.clr"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\netstandard.pdb",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\managed\\netstandard.pdb"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\manifest.webmanifest"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\mono-config.json",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\mono-config.json"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\normalize.css",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\normalize.css"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\package.json",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\package.json"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\pal_random.lib.js",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\pal_random.lib.js"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\pinvoke.c",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\pinvoke.c"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\pinvoke.h",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\pinvoke.h"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\require.js",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\require.js"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\runtime.js",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\runtime.js"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\setImmediate.js",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\setImmediate.js"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\splash_screen.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\splash_screen.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\splash_screen.scale-100.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\splash_screen.scale-100.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\splash_screen.scale-125.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\splash_screen.scale-125.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\splash_screen.scale-150.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\splash_screen.scale-150.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\splash_screen.scale-200.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\splash_screen.scale-200.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\splash_screen.scale-300.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\splash_screen.scale-300.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\splash_screen.scale-400.png",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\splash_screen.scale-400.png"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\uno-assets.txt",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\uno-assets.txt"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\uno-bootstrap.css",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\uno-bootstrap.css"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\uno-bootstrap.js",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\uno-bootstrap.js"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\uno-config.js",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\uno-config.js"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\uno-lottie.js",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\uno-lottie.js"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\package_a28aa1950f29603ccfae938904d72dee80653215\\wasm-config.h",
+      "PackagePath": "staticwebassets\\package_a28aa1950f29603ccfae938904d72dee80653215\\wasm-config.h"
+    },
+    {
+      "Id": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Wasm\\bin\\Debug\\net7.0\\dist\\service-worker.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DemoApp.Wasm.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DemoApp.Wasm.props",
+      "PackagePath": "build\\DemoApp.Wasm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DemoApp.Wasm.props",
+      "PackagePath": "buildMultiTargeting\\DemoApp.Wasm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DemoApp.Wasm.props",
+      "PackagePath": "buildTransitive\\DemoApp.Wasm.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

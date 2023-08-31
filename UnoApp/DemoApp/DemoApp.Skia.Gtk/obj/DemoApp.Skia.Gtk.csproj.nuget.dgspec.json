@@ -1,0 +1,1341 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Skia.Gtk\\DemoApp.Skia.Gtk.csproj": {}
+  },
+  "projects": {
+    "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.DataContracts\\DemoApp.DataContracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.DataContracts\\DemoApp.DataContracts.csproj",
+        "projectName": "DemoApp.DataContracts",
+        "projectPath": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.DataContracts\\DemoApp.DataContracts.csproj",
+        "packagesPath": "C:\\Users\\Rghumatkar\\.nuget\\packages\\",
+        "outputPath": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.DataContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\Rghumatkar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1507"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "centralPackageVersions": {
+            "coverlet.collector": "[3.2.0, )",
+            "FluentAssertions": "[6.11.0, )",
+            "Microsoft.Extensions.Logging.Console": "[7.0.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.5.0, )",
+            "Microsoft.Windows.Compatibility": "[7.0.0, )",
+            "Microsoft.Windows.SDK.BuildTools": "[10.0.22621.756, )",
+            "Microsoft.WindowsAppSDK": "[1.3.230602002, )",
+            "Newtonsoft.Json": "[13.0.3, )",
+            "NUnit": "[3.13.3, )",
+            "NUnit3TestAdapter": "[4.4.2, )",
+            "Serilog.AspNetCore": "[7.0.0, )",
+            "SkiaSharp.Skottie": "[2.88.3, )",
+            "SkiaSharp.Views.Uno.WinUI": "[2.88.3, )",
+            "Swashbuckle.AspNetCore": "[6.5.0, )",
+            "Uno.Core.Extensions.Logging.Singleton": "[4.0.1, )",
+            "Uno.Dsp.Tasks": "[1.1.0, )",
+            "Uno.Extensions.Configuration": "[2.4.1, )",
+            "Uno.Extensions.Hosting": "[2.4.1, )",
+            "Uno.Extensions.Hosting.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Http": "[2.4.1, )",
+            "Uno.Extensions.Http.Refit": "[2.4.1, )",
+            "Uno.Extensions.Localization": "[2.4.1, )",
+            "Uno.Extensions.Localization.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Logging.OSLog": "[1.4.0, )",
+            "Uno.Extensions.Logging.Serilog": "[2.4.1, )",
+            "Uno.Extensions.Logging.WebAssembly.Console": "[1.4.0, )",
+            "Uno.Extensions.Logging.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Navigation": "[2.4.1, )",
+            "Uno.Extensions.Navigation.Toolkit.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Navigation.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Reactive": "[2.4.1, )",
+            "Uno.Extensions.Reactive.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Serialization": "[2.4.1, )",
+            "Uno.Extensions.Serialization.Http": "[2.4.1, )",
+            "Uno.Extensions.Serialization.Refit": "[2.4.1, )",
+            "Uno.Extensions.Toolkit.WinUI": "[2.4.1, )",
+            "Uno.Material.WinUI": "[2.6.0, )",
+            "Uno.Resizetizer": "[1.1.0, )",
+            "Uno.Toolkit.WinUI": "[3.0.4, )",
+            "Uno.Toolkit.WinUI.Material": "[3.0.4, )",
+            "Uno.UI.Adapter.Microsoft.Extensions.Logging": "[4.9.17, )",
+            "Uno.UITest.Helpers": "[1.1.0-dev.55, )",
+            "Uno.UniversalImageLoader": "[1.9.36, )",
+            "Uno.Wasm.Bootstrap": "[7.0.23, )",
+            "Uno.Wasm.Bootstrap.DevServer": "[7.0.23, )",
+            "Uno.Wasm.Bootstrap.Server": "[7.0.23, )",
+            "Uno.WinUI": "[4.9.17, )",
+            "Uno.WinUI.RemoteControl": "[4.9.17, )",
+            "Uno.WinUI.Skia.Gtk": "[4.9.17, )",
+            "Uno.WinUI.WebAssembly": "[4.9.17, )",
+            "Xamarin.Google.Android.Material": "[1.8.0, )",
+            "Xamarin.UITest": "[4.1.3, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Skia.Gtk\\DemoApp.Skia.Gtk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Skia.Gtk\\DemoApp.Skia.Gtk.csproj",
+        "projectName": "DemoApp.Skia.Gtk",
+        "projectPath": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Skia.Gtk\\DemoApp.Skia.Gtk.csproj",
+        "packagesPath": "C:\\Users\\Rghumatkar\\.nuget\\packages\\",
+        "outputPath": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.Skia.Gtk\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\Rghumatkar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.DataContracts\\DemoApp.DataContracts.csproj": {
+                "projectPath": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.DataContracts\\DemoApp.DataContracts.csproj"
+              },
+              "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp\\DemoApp.csproj": {
+                "projectPath": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp\\DemoApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1507"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "SkiaSharp.Skottie": {
+              "target": "Package",
+              "version": "[2.88.3, )",
+              "versionCentrallyManaged": true
+            },
+            "SkiaSharp.Views.Uno.WinUI": {
+              "target": "Package",
+              "version": "[2.88.3, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Hosting.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Http": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Http.Refit": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Localization.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Logging.Serilog": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Logging.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Navigation.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Navigation.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Reactive.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Serialization.Http": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Serialization.Refit": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Material.WinUI": {
+              "target": "Package",
+              "version": "[2.6.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Resizetizer": {
+              "target": "Package",
+              "version": "[1.1.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[3.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Toolkit.WinUI.Material": {
+              "target": "Package",
+              "version": "[3.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.UI.Adapter.Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[4.9.17, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.WinUI.RemoteControl": {
+              "target": "Package",
+              "version": "[4.9.17, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.WinUI.Skia.Gtk": {
+              "target": "Package",
+              "version": "[4.9.17, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "[3.2.0, )",
+            "FluentAssertions": "[6.11.0, )",
+            "Microsoft.Extensions.Logging.Console": "[7.0.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.5.0, )",
+            "Microsoft.Windows.Compatibility": "[7.0.0, )",
+            "Microsoft.Windows.SDK.BuildTools": "[10.0.22621.756, )",
+            "Microsoft.WindowsAppSDK": "[1.3.230602002, )",
+            "Newtonsoft.Json": "[13.0.3, )",
+            "NUnit": "[3.13.3, )",
+            "NUnit3TestAdapter": "[4.4.2, )",
+            "Serilog.AspNetCore": "[7.0.0, )",
+            "SkiaSharp.Skottie": "[2.88.3, )",
+            "SkiaSharp.Views.Uno.WinUI": "[2.88.3, )",
+            "Swashbuckle.AspNetCore": "[6.5.0, )",
+            "Uno.Core.Extensions.Logging.Singleton": "[4.0.1, )",
+            "Uno.Dsp.Tasks": "[1.1.0, )",
+            "Uno.Extensions.Configuration": "[2.4.1, )",
+            "Uno.Extensions.Hosting": "[2.4.1, )",
+            "Uno.Extensions.Hosting.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Http": "[2.4.1, )",
+            "Uno.Extensions.Http.Refit": "[2.4.1, )",
+            "Uno.Extensions.Localization": "[2.4.1, )",
+            "Uno.Extensions.Localization.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Logging.OSLog": "[1.4.0, )",
+            "Uno.Extensions.Logging.Serilog": "[2.4.1, )",
+            "Uno.Extensions.Logging.WebAssembly.Console": "[1.4.0, )",
+            "Uno.Extensions.Logging.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Navigation": "[2.4.1, )",
+            "Uno.Extensions.Navigation.Toolkit.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Navigation.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Reactive": "[2.4.1, )",
+            "Uno.Extensions.Reactive.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Serialization": "[2.4.1, )",
+            "Uno.Extensions.Serialization.Http": "[2.4.1, )",
+            "Uno.Extensions.Serialization.Refit": "[2.4.1, )",
+            "Uno.Extensions.Toolkit.WinUI": "[2.4.1, )",
+            "Uno.Material.WinUI": "[2.6.0, )",
+            "Uno.Resizetizer": "[1.1.0, )",
+            "Uno.Toolkit.WinUI": "[3.0.4, )",
+            "Uno.Toolkit.WinUI.Material": "[3.0.4, )",
+            "Uno.UI.Adapter.Microsoft.Extensions.Logging": "[4.9.17, )",
+            "Uno.UITest.Helpers": "[1.1.0-dev.55, )",
+            "Uno.UniversalImageLoader": "[1.9.36, )",
+            "Uno.Wasm.Bootstrap": "[7.0.23, )",
+            "Uno.Wasm.Bootstrap.DevServer": "[7.0.23, )",
+            "Uno.Wasm.Bootstrap.Server": "[7.0.23, )",
+            "Uno.WinUI": "[4.9.17, )",
+            "Uno.WinUI.RemoteControl": "[4.9.17, )",
+            "Uno.WinUI.Skia.Gtk": "[4.9.17, )",
+            "Uno.WinUI.WebAssembly": "[4.9.17, )",
+            "Xamarin.Google.Android.Material": "[1.8.0, )",
+            "Xamarin.UITest": "[4.1.3, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp\\DemoApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp\\DemoApp.csproj",
+        "projectName": "DemoApp",
+        "projectPath": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp\\DemoApp.csproj",
+        "packagesPath": "C:\\Users\\Rghumatkar\\.nuget\\packages\\",
+        "outputPath": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\Rghumatkar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0",
+          "net7.0-android",
+          "net7.0-ios",
+          "net7.0-maccatalyst",
+          "net7.0-windows10.0.19041"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.DataContracts\\DemoApp.DataContracts.csproj": {
+                "projectPath": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.DataContracts\\DemoApp.DataContracts.csproj"
+              }
+            }
+          },
+          "net7.0-android33.0": {
+            "targetAlias": "net7.0-android",
+            "projectReferences": {
+              "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.DataContracts\\DemoApp.DataContracts.csproj": {
+                "projectPath": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.DataContracts\\DemoApp.DataContracts.csproj"
+              }
+            }
+          },
+          "net7.0-ios16.1": {
+            "targetAlias": "net7.0-ios",
+            "projectReferences": {
+              "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.DataContracts\\DemoApp.DataContracts.csproj": {
+                "projectPath": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.DataContracts\\DemoApp.DataContracts.csproj"
+              }
+            }
+          },
+          "net7.0-maccatalyst16.1": {
+            "targetAlias": "net7.0-maccatalyst",
+            "projectReferences": {
+              "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.DataContracts\\DemoApp.DataContracts.csproj": {
+                "projectPath": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.DataContracts\\DemoApp.DataContracts.csproj"
+              }
+            }
+          },
+          "net7.0-windows10.0.19041": {
+            "targetAlias": "net7.0-windows10.0.19041",
+            "projectReferences": {
+              "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.DataContracts\\DemoApp.DataContracts.csproj": {
+                "projectPath": "D:\\net core MVC\\UnoApp\\DemoApp\\DemoApp.DataContracts\\DemoApp.DataContracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1507"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Dsp.Tasks": {
+              "target": "Package",
+              "version": "[1.1.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Hosting.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Http": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Http.Refit": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Localization.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Logging.Serilog": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Logging.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Navigation.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Navigation.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Reactive.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Serialization.Http": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Serialization.Refit": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Material.WinUI": {
+              "target": "Package",
+              "version": "[2.6.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Resizetizer": {
+              "target": "Package",
+              "version": "[1.1.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[3.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Toolkit.WinUI.Material": {
+              "target": "Package",
+              "version": "[3.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.WinUI": {
+              "target": "Package",
+              "version": "[4.9.17, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "[3.2.0, )",
+            "FluentAssertions": "[6.11.0, )",
+            "Microsoft.Extensions.Logging.Console": "[7.0.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.5.0, )",
+            "Microsoft.Windows.Compatibility": "[7.0.0, )",
+            "Microsoft.Windows.SDK.BuildTools": "[10.0.22621.756, )",
+            "Microsoft.WindowsAppSDK": "[1.3.230602002, )",
+            "Newtonsoft.Json": "[13.0.3, )",
+            "NUnit": "[3.13.3, )",
+            "NUnit3TestAdapter": "[4.4.2, )",
+            "Serilog.AspNetCore": "[7.0.0, )",
+            "SkiaSharp.Skottie": "[2.88.3, )",
+            "SkiaSharp.Views.Uno.WinUI": "[2.88.3, )",
+            "Swashbuckle.AspNetCore": "[6.5.0, )",
+            "Uno.Core.Extensions.Logging.Singleton": "[4.0.1, )",
+            "Uno.Dsp.Tasks": "[1.1.0, )",
+            "Uno.Extensions.Configuration": "[2.4.1, )",
+            "Uno.Extensions.Hosting": "[2.4.1, )",
+            "Uno.Extensions.Hosting.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Http": "[2.4.1, )",
+            "Uno.Extensions.Http.Refit": "[2.4.1, )",
+            "Uno.Extensions.Localization": "[2.4.1, )",
+            "Uno.Extensions.Localization.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Logging.OSLog": "[1.4.0, )",
+            "Uno.Extensions.Logging.Serilog": "[2.4.1, )",
+            "Uno.Extensions.Logging.WebAssembly.Console": "[1.4.0, )",
+            "Uno.Extensions.Logging.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Navigation": "[2.4.1, )",
+            "Uno.Extensions.Navigation.Toolkit.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Navigation.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Reactive": "[2.4.1, )",
+            "Uno.Extensions.Reactive.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Serialization": "[2.4.1, )",
+            "Uno.Extensions.Serialization.Http": "[2.4.1, )",
+            "Uno.Extensions.Serialization.Refit": "[2.4.1, )",
+            "Uno.Extensions.Toolkit.WinUI": "[2.4.1, )",
+            "Uno.Material.WinUI": "[2.6.0, )",
+            "Uno.Resizetizer": "[1.1.0, )",
+            "Uno.Toolkit.WinUI": "[3.0.4, )",
+            "Uno.Toolkit.WinUI.Material": "[3.0.4, )",
+            "Uno.UI.Adapter.Microsoft.Extensions.Logging": "[4.9.17, )",
+            "Uno.UITest.Helpers": "[1.1.0-dev.55, )",
+            "Uno.UniversalImageLoader": "[1.9.36, )",
+            "Uno.Wasm.Bootstrap": "[7.0.23, )",
+            "Uno.Wasm.Bootstrap.DevServer": "[7.0.23, )",
+            "Uno.Wasm.Bootstrap.Server": "[7.0.23, )",
+            "Uno.WinUI": "[4.9.17, )",
+            "Uno.WinUI.RemoteControl": "[4.9.17, )",
+            "Uno.WinUI.Skia.Gtk": "[4.9.17, )",
+            "Uno.WinUI.WebAssembly": "[4.9.17, )",
+            "Xamarin.Google.Android.Material": "[1.8.0, )",
+            "Xamarin.UITest": "[4.1.3, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        },
+        "net7.0-android33.0": {
+          "targetAlias": "net7.0-android",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Dsp.Tasks": {
+              "target": "Package",
+              "version": "[1.1.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Hosting.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Http": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Http.Refit": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Localization.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Logging.Serilog": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Logging.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Navigation.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Navigation.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Reactive.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Serialization.Http": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Serialization.Refit": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Material.WinUI": {
+              "target": "Package",
+              "version": "[2.6.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Resizetizer": {
+              "target": "Package",
+              "version": "[1.1.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[3.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Toolkit.WinUI.Material": {
+              "target": "Package",
+              "version": "[3.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.WinUI": {
+              "target": "Package",
+              "version": "[4.9.17, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "[3.2.0, )",
+            "FluentAssertions": "[6.11.0, )",
+            "Microsoft.Extensions.Logging.Console": "[7.0.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.5.0, )",
+            "Microsoft.Windows.Compatibility": "[7.0.0, )",
+            "Microsoft.Windows.SDK.BuildTools": "[10.0.22621.756, )",
+            "Microsoft.WindowsAppSDK": "[1.3.230602002, )",
+            "Newtonsoft.Json": "[13.0.3, )",
+            "NUnit": "[3.13.3, )",
+            "NUnit3TestAdapter": "[4.4.2, )",
+            "Serilog.AspNetCore": "[7.0.0, )",
+            "SkiaSharp.Skottie": "[2.88.3, )",
+            "SkiaSharp.Views.Uno.WinUI": "[2.88.3, )",
+            "Swashbuckle.AspNetCore": "[6.5.0, )",
+            "Uno.Core.Extensions.Logging.Singleton": "[4.0.1, )",
+            "Uno.Dsp.Tasks": "[1.1.0, )",
+            "Uno.Extensions.Configuration": "[2.4.1, )",
+            "Uno.Extensions.Hosting": "[2.4.1, )",
+            "Uno.Extensions.Hosting.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Http": "[2.4.1, )",
+            "Uno.Extensions.Http.Refit": "[2.4.1, )",
+            "Uno.Extensions.Localization": "[2.4.1, )",
+            "Uno.Extensions.Localization.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Logging.OSLog": "[1.4.0, )",
+            "Uno.Extensions.Logging.Serilog": "[2.4.1, )",
+            "Uno.Extensions.Logging.WebAssembly.Console": "[1.4.0, )",
+            "Uno.Extensions.Logging.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Navigation": "[2.4.1, )",
+            "Uno.Extensions.Navigation.Toolkit.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Navigation.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Reactive": "[2.4.1, )",
+            "Uno.Extensions.Reactive.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Serialization": "[2.4.1, )",
+            "Uno.Extensions.Serialization.Http": "[2.4.1, )",
+            "Uno.Extensions.Serialization.Refit": "[2.4.1, )",
+            "Uno.Extensions.Toolkit.WinUI": "[2.4.1, )",
+            "Uno.Material.WinUI": "[2.6.0, )",
+            "Uno.Resizetizer": "[1.1.0, )",
+            "Uno.Toolkit.WinUI": "[3.0.4, )",
+            "Uno.Toolkit.WinUI.Material": "[3.0.4, )",
+            "Uno.UI.Adapter.Microsoft.Extensions.Logging": "[4.9.17, )",
+            "Uno.UITest.Helpers": "[1.1.0-dev.55, )",
+            "Uno.UniversalImageLoader": "[1.9.36, )",
+            "Uno.Wasm.Bootstrap": "[7.0.23, )",
+            "Uno.Wasm.Bootstrap.DevServer": "[7.0.23, )",
+            "Uno.Wasm.Bootstrap.Server": "[7.0.23, )",
+            "Uno.WinUI": "[4.9.17, )",
+            "Uno.WinUI.RemoteControl": "[4.9.17, )",
+            "Uno.WinUI.Skia.Gtk": "[4.9.17, )",
+            "Uno.WinUI.WebAssembly": "[4.9.17, )",
+            "Xamarin.Google.Android.Material": "[1.8.0, )",
+            "Xamarin.UITest": "[4.1.3, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.Android": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        },
+        "net7.0-ios16.1": {
+          "targetAlias": "net7.0-ios",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Dsp.Tasks": {
+              "target": "Package",
+              "version": "[1.1.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Hosting.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Http": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Http.Refit": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Localization.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Logging.Serilog": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Logging.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Navigation.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Navigation.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Reactive.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Serialization.Http": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Serialization.Refit": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Material.WinUI": {
+              "target": "Package",
+              "version": "[2.6.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Resizetizer": {
+              "target": "Package",
+              "version": "[1.1.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[3.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Toolkit.WinUI.Material": {
+              "target": "Package",
+              "version": "[3.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.WinUI": {
+              "target": "Package",
+              "version": "[4.9.17, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "[3.2.0, )",
+            "FluentAssertions": "[6.11.0, )",
+            "Microsoft.Extensions.Logging.Console": "[7.0.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.5.0, )",
+            "Microsoft.Windows.Compatibility": "[7.0.0, )",
+            "Microsoft.Windows.SDK.BuildTools": "[10.0.22621.756, )",
+            "Microsoft.WindowsAppSDK": "[1.3.230602002, )",
+            "Newtonsoft.Json": "[13.0.3, )",
+            "NUnit": "[3.13.3, )",
+            "NUnit3TestAdapter": "[4.4.2, )",
+            "Serilog.AspNetCore": "[7.0.0, )",
+            "SkiaSharp.Skottie": "[2.88.3, )",
+            "SkiaSharp.Views.Uno.WinUI": "[2.88.3, )",
+            "Swashbuckle.AspNetCore": "[6.5.0, )",
+            "Uno.Core.Extensions.Logging.Singleton": "[4.0.1, )",
+            "Uno.Dsp.Tasks": "[1.1.0, )",
+            "Uno.Extensions.Configuration": "[2.4.1, )",
+            "Uno.Extensions.Hosting": "[2.4.1, )",
+            "Uno.Extensions.Hosting.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Http": "[2.4.1, )",
+            "Uno.Extensions.Http.Refit": "[2.4.1, )",
+            "Uno.Extensions.Localization": "[2.4.1, )",
+            "Uno.Extensions.Localization.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Logging.OSLog": "[1.4.0, )",
+            "Uno.Extensions.Logging.Serilog": "[2.4.1, )",
+            "Uno.Extensions.Logging.WebAssembly.Console": "[1.4.0, )",
+            "Uno.Extensions.Logging.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Navigation": "[2.4.1, )",
+            "Uno.Extensions.Navigation.Toolkit.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Navigation.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Reactive": "[2.4.1, )",
+            "Uno.Extensions.Reactive.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Serialization": "[2.4.1, )",
+            "Uno.Extensions.Serialization.Http": "[2.4.1, )",
+            "Uno.Extensions.Serialization.Refit": "[2.4.1, )",
+            "Uno.Extensions.Toolkit.WinUI": "[2.4.1, )",
+            "Uno.Material.WinUI": "[2.6.0, )",
+            "Uno.Resizetizer": "[1.1.0, )",
+            "Uno.Toolkit.WinUI": "[3.0.4, )",
+            "Uno.Toolkit.WinUI.Material": "[3.0.4, )",
+            "Uno.UI.Adapter.Microsoft.Extensions.Logging": "[4.9.17, )",
+            "Uno.UITest.Helpers": "[1.1.0-dev.55, )",
+            "Uno.UniversalImageLoader": "[1.9.36, )",
+            "Uno.Wasm.Bootstrap": "[7.0.23, )",
+            "Uno.Wasm.Bootstrap.DevServer": "[7.0.23, )",
+            "Uno.Wasm.Bootstrap.Server": "[7.0.23, )",
+            "Uno.WinUI": "[4.9.17, )",
+            "Uno.WinUI.RemoteControl": "[4.9.17, )",
+            "Uno.WinUI.Skia.Gtk": "[4.9.17, )",
+            "Uno.WinUI.WebAssembly": "[4.9.17, )",
+            "Xamarin.Google.Android.Material": "[1.8.0, )",
+            "Xamarin.UITest": "[4.1.3, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.iOS": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        },
+        "net7.0-maccatalyst16.1": {
+          "targetAlias": "net7.0-maccatalyst",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Dsp.Tasks": {
+              "target": "Package",
+              "version": "[1.1.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Hosting.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Http": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Http.Refit": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Localization.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Logging.Serilog": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Logging.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Navigation.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Navigation.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Reactive.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Serialization.Http": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Serialization.Refit": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Material.WinUI": {
+              "target": "Package",
+              "version": "[2.6.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Resizetizer": {
+              "target": "Package",
+              "version": "[1.1.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[3.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Toolkit.WinUI.Material": {
+              "target": "Package",
+              "version": "[3.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.WinUI": {
+              "target": "Package",
+              "version": "[4.9.17, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "[3.2.0, )",
+            "FluentAssertions": "[6.11.0, )",
+            "Microsoft.Extensions.Logging.Console": "[7.0.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.5.0, )",
+            "Microsoft.Windows.Compatibility": "[7.0.0, )",
+            "Microsoft.Windows.SDK.BuildTools": "[10.0.22621.756, )",
+            "Microsoft.WindowsAppSDK": "[1.3.230602002, )",
+            "Newtonsoft.Json": "[13.0.3, )",
+            "NUnit": "[3.13.3, )",
+            "NUnit3TestAdapter": "[4.4.2, )",
+            "Serilog.AspNetCore": "[7.0.0, )",
+            "SkiaSharp.Skottie": "[2.88.3, )",
+            "SkiaSharp.Views.Uno.WinUI": "[2.88.3, )",
+            "Swashbuckle.AspNetCore": "[6.5.0, )",
+            "Uno.Core.Extensions.Logging.Singleton": "[4.0.1, )",
+            "Uno.Dsp.Tasks": "[1.1.0, )",
+            "Uno.Extensions.Configuration": "[2.4.1, )",
+            "Uno.Extensions.Hosting": "[2.4.1, )",
+            "Uno.Extensions.Hosting.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Http": "[2.4.1, )",
+            "Uno.Extensions.Http.Refit": "[2.4.1, )",
+            "Uno.Extensions.Localization": "[2.4.1, )",
+            "Uno.Extensions.Localization.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Logging.OSLog": "[1.4.0, )",
+            "Uno.Extensions.Logging.Serilog": "[2.4.1, )",
+            "Uno.Extensions.Logging.WebAssembly.Console": "[1.4.0, )",
+            "Uno.Extensions.Logging.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Navigation": "[2.4.1, )",
+            "Uno.Extensions.Navigation.Toolkit.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Navigation.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Reactive": "[2.4.1, )",
+            "Uno.Extensions.Reactive.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Serialization": "[2.4.1, )",
+            "Uno.Extensions.Serialization.Http": "[2.4.1, )",
+            "Uno.Extensions.Serialization.Refit": "[2.4.1, )",
+            "Uno.Extensions.Toolkit.WinUI": "[2.4.1, )",
+            "Uno.Material.WinUI": "[2.6.0, )",
+            "Uno.Resizetizer": "[1.1.0, )",
+            "Uno.Toolkit.WinUI": "[3.0.4, )",
+            "Uno.Toolkit.WinUI.Material": "[3.0.4, )",
+            "Uno.UI.Adapter.Microsoft.Extensions.Logging": "[4.9.17, )",
+            "Uno.UITest.Helpers": "[1.1.0-dev.55, )",
+            "Uno.UniversalImageLoader": "[1.9.36, )",
+            "Uno.Wasm.Bootstrap": "[7.0.23, )",
+            "Uno.Wasm.Bootstrap.DevServer": "[7.0.23, )",
+            "Uno.Wasm.Bootstrap.Server": "[7.0.23, )",
+            "Uno.WinUI": "[4.9.17, )",
+            "Uno.WinUI.RemoteControl": "[4.9.17, )",
+            "Uno.WinUI.Skia.Gtk": "[4.9.17, )",
+            "Uno.WinUI.WebAssembly": "[4.9.17, )",
+            "Xamarin.Google.Android.Material": "[1.8.0, )",
+            "Xamarin.UITest": "[4.1.3, )"
+          },
+          "imports": [
+            "xamarinios10",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.MacCatalyst": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        },
+        "net7.0-windows10.0.19041": {
+          "targetAlias": "net7.0-windows10.0.19041",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Windows.SDK.BuildTools": {
+              "target": "Package",
+              "version": "[10.0.22621.756, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.WindowsAppSDK": {
+              "target": "Package",
+              "version": "[1.3.230602002, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Dsp.Tasks": {
+              "target": "Package",
+              "version": "[1.1.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Hosting.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Http": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Http.Refit": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Localization.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Logging.Serilog": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Logging.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Navigation.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Navigation.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Reactive.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Serialization.Http": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Serialization.Refit": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Extensions.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[2.4.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Material.WinUI": {
+              "target": "Package",
+              "version": "[2.6.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Resizetizer": {
+              "target": "Package",
+              "version": "[1.1.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Toolkit.WinUI": {
+              "target": "Package",
+              "version": "[3.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.Toolkit.WinUI.Material": {
+              "target": "Package",
+              "version": "[3.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "Uno.WinUI": {
+              "target": "Package",
+              "version": "[4.9.17, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "[3.2.0, )",
+            "FluentAssertions": "[6.11.0, )",
+            "Microsoft.Extensions.Logging.Console": "[7.0.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.5.0, )",
+            "Microsoft.Windows.Compatibility": "[7.0.0, )",
+            "Microsoft.Windows.SDK.BuildTools": "[10.0.22621.756, )",
+            "Microsoft.WindowsAppSDK": "[1.3.230602002, )",
+            "Newtonsoft.Json": "[13.0.3, )",
+            "NUnit": "[3.13.3, )",
+            "NUnit3TestAdapter": "[4.4.2, )",
+            "Serilog.AspNetCore": "[7.0.0, )",
+            "SkiaSharp.Skottie": "[2.88.3, )",
+            "SkiaSharp.Views.Uno.WinUI": "[2.88.3, )",
+            "Swashbuckle.AspNetCore": "[6.5.0, )",
+            "Uno.Core.Extensions.Logging.Singleton": "[4.0.1, )",
+            "Uno.Dsp.Tasks": "[1.1.0, )",
+            "Uno.Extensions.Configuration": "[2.4.1, )",
+            "Uno.Extensions.Hosting": "[2.4.1, )",
+            "Uno.Extensions.Hosting.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Http": "[2.4.1, )",
+            "Uno.Extensions.Http.Refit": "[2.4.1, )",
+            "Uno.Extensions.Localization": "[2.4.1, )",
+            "Uno.Extensions.Localization.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Logging.OSLog": "[1.4.0, )",
+            "Uno.Extensions.Logging.Serilog": "[2.4.1, )",
+            "Uno.Extensions.Logging.WebAssembly.Console": "[1.4.0, )",
+            "Uno.Extensions.Logging.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Navigation": "[2.4.1, )",
+            "Uno.Extensions.Navigation.Toolkit.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Navigation.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Reactive": "[2.4.1, )",
+            "Uno.Extensions.Reactive.WinUI": "[2.4.1, )",
+            "Uno.Extensions.Serialization": "[2.4.1, )",
+            "Uno.Extensions.Serialization.Http": "[2.4.1, )",
+            "Uno.Extensions.Serialization.Refit": "[2.4.1, )",
+            "Uno.Extensions.Toolkit.WinUI": "[2.4.1, )",
+            "Uno.Material.WinUI": "[2.6.0, )",
+            "Uno.Resizetizer": "[1.1.0, )",
+            "Uno.Toolkit.WinUI": "[3.0.4, )",
+            "Uno.Toolkit.WinUI.Material": "[3.0.4, )",
+            "Uno.UI.Adapter.Microsoft.Extensions.Logging": "[4.9.17, )",
+            "Uno.UITest.Helpers": "[1.1.0-dev.55, )",
+            "Uno.UniversalImageLoader": "[1.9.36, )",
+            "Uno.Wasm.Bootstrap": "[7.0.23, )",
+            "Uno.Wasm.Bootstrap.DevServer": "[7.0.23, )",
+            "Uno.Wasm.Bootstrap.Server": "[7.0.23, )",
+            "Uno.WinUI": "[4.9.17, )",
+            "Uno.WinUI.RemoteControl": "[4.9.17, )",
+            "Uno.WinUI.Skia.Gtk": "[4.9.17, )",
+            "Uno.WinUI.WebAssembly": "[4.9.17, )",
+            "Xamarin.Google.Android.Material": "[1.8.0, )",
+            "Xamarin.UITest": "[4.1.3, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.19041.29, 10.0.19041.29]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Rghumatkar\.nuget\packages\</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.7.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\Rghumatkar\.nuget\packages\" />
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)uno.fonts.fluent\2.2.2\buildTransitive\Uno.Fonts.Fluent.props" Condition="Exists('$(NuGetPackageRoot)uno.fonts.fluent\2.2.2\buildTransitive\Uno.Fonts.Fluent.props')" />
+    <Import Project="$(NuGetPackageRoot)uno.winui\4.9.17\buildTransitive\net7.0\uno.winui.props" Condition="Exists('$(NuGetPackageRoot)uno.winui\4.9.17\buildTransitive\net7.0\uno.winui.props')" />
+    <Import Project="$(NuGetPackageRoot)uno.winui.runtime.webassembly\4.9.17\buildTransitive\Uno.WinUI.Runtime.WebAssembly.props" Condition="Exists('$(NuGetPackageRoot)uno.winui.runtime.webassembly\4.9.17\buildTransitive\Uno.WinUI.Runtime.WebAssembly.props')" />
+    <Import Project="$(NuGetPackageRoot)uno.winui.webassembly\4.9.17\build\Uno.WinUI.WebAssembly.props" Condition="Exists('$(NuGetPackageRoot)uno.winui.webassembly\4.9.17\build\Uno.WinUI.WebAssembly.props')" />
+    <Import Project="$(NuGetPackageRoot)uno.wasm.bootstrap\7.0.23\build\Uno.Wasm.Bootstrap.props" Condition="Exists('$(NuGetPackageRoot)uno.wasm.bootstrap\7.0.23\build\Uno.Wasm.Bootstrap.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.configuration.usersecrets\6.0.1\buildTransitive\netstandard2.0\Microsoft.Extensions.Configuration.UserSecrets.props" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.configuration.usersecrets\6.0.1\buildTransitive\netstandard2.0\Microsoft.Extensions.Configuration.UserSecrets.props')" />
+    <Import Project="$(NuGetPackageRoot)uno.extensions.core\2.4.1\buildTransitive\Uno.Extensions.Core.props" Condition="Exists('$(NuGetPackageRoot)uno.extensions.core\2.4.1\buildTransitive\Uno.Extensions.Core.props')" />
+    <Import Project="$(NuGetPackageRoot)refit\6.3.2\buildTransitive\netstandard2.0\refit.props" Condition="Exists('$(NuGetPackageRoot)refit\6.3.2\buildTransitive\netstandard2.0\refit.props')" />
+    <Import Project="$(NuGetPackageRoot)uno.extensions.hosting.winui\2.4.1\buildTransitive\Uno.Extensions.Hosting.WinUI.props" Condition="Exists('$(NuGetPackageRoot)uno.extensions.hosting.winui\2.4.1\buildTransitive\Uno.Extensions.Hosting.WinUI.props')" />
+    <Import Project="$(NuGetPackageRoot)uno.extensions.logging.winui\2.4.1\buildTransitive\Uno.Extensions.Logging.WinUI.props" Condition="Exists('$(NuGetPackageRoot)uno.extensions.logging.winui\2.4.1\buildTransitive\Uno.Extensions.Logging.WinUI.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgUno_WinUI Condition=" '$(PkgUno_WinUI)' == '' ">C:\Users\Rghumatkar\.nuget\packages\uno.winui\4.9.17</PkgUno_WinUI>
+    <PkgUno_WinUI_RemoteControl Condition=" '$(PkgUno_WinUI_RemoteControl)' == '' ">C:\Users\Rghumatkar\.nuget\packages\uno.winui.remotecontrol\4.9.17</PkgUno_WinUI_RemoteControl>
+    <PkgUno_Wasm_Bootstrap_DevServer Condition=" '$(PkgUno_Wasm_Bootstrap_DevServer)' == '' ">C:\Users\Rghumatkar\.nuget\packages\uno.wasm.bootstrap.devserver\7.0.23</PkgUno_Wasm_Bootstrap_DevServer>
+    <PkgUno_Wasm_Bootstrap Condition=" '$(PkgUno_Wasm_Bootstrap)' == '' ">C:\Users\Rghumatkar\.nuget\packages\uno.wasm.bootstrap\7.0.23</PkgUno_Wasm_Bootstrap>
+    <PkgUno_Resizetizer Condition=" '$(PkgUno_Resizetizer)' == '' ">C:\Users\Rghumatkar\.nuget\packages\uno.resizetizer\1.1.0</PkgUno_Resizetizer>
+    <PkgUno_Dsp_Tasks Condition=" '$(PkgUno_Dsp_Tasks)' == '' ">C:\Users\Rghumatkar\.nuget\packages\uno.dsp.tasks\1.1.0</PkgUno_Dsp_Tasks>
+  </PropertyGroup>
+</Project>

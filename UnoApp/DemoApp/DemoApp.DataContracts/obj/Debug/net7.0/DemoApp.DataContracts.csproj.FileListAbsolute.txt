@@ -1,0 +1,13 @@
+D:\net core MVC\UnoApp\DemoApp\DemoApp.DataContracts\bin\Debug\net7.0\DemoApp.DataContracts.deps.json
+D:\net core MVC\UnoApp\DemoApp\DemoApp.DataContracts\bin\Debug\net7.0\DemoApp.DataContracts.dll
+D:\net core MVC\UnoApp\DemoApp\DemoApp.DataContracts\bin\Debug\net7.0\DemoApp.DataContracts.pdb
+D:\net core MVC\UnoApp\DemoApp\DemoApp.DataContracts\bin\Debug\net7.0\DemoApp.DataContracts.xml
+D:\net core MVC\UnoApp\DemoApp\DemoApp.DataContracts\obj\Debug\net7.0\DemoApp.DataContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\net core MVC\UnoApp\DemoApp\DemoApp.DataContracts\obj\Debug\net7.0\DemoApp.DataContracts.AssemblyInfoInputs.cache
+D:\net core MVC\UnoApp\DemoApp\DemoApp.DataContracts\obj\Debug\net7.0\DemoApp.DataContracts.AssemblyInfo.cs
+D:\net core MVC\UnoApp\DemoApp\DemoApp.DataContracts\obj\Debug\net7.0\DemoApp.DataContracts.csproj.CoreCompileInputs.cache
+D:\net core MVC\UnoApp\DemoApp\DemoApp.DataContracts\obj\Debug\net7.0\DemoApp.DataContracts.dll
+D:\net core MVC\UnoApp\DemoApp\DemoApp.DataContracts\obj\Debug\net7.0\refint\DemoApp.DataContracts.dll
+D:\net core MVC\UnoApp\DemoApp\DemoApp.DataContracts\obj\Debug\net7.0\DemoApp.DataContracts.xml
+D:\net core MVC\UnoApp\DemoApp\DemoApp.DataContracts\obj\Debug\net7.0\DemoApp.DataContracts.pdb
+D:\net core MVC\UnoApp\DemoApp\DemoApp.DataContracts\obj\Debug\net7.0\ref\DemoApp.DataContracts.dll
